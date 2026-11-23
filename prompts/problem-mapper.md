@@ -21,6 +21,8 @@ Work back from what you've built to the problems it solves, and tell your story 
 
 The [tool's page](https://crwburgess.com/toolbelt/problem-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Want help turning what you've built into a story customers understand? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

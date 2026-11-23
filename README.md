@@ -49,6 +49,10 @@ I'm [Chris Burgess](https://crwburgess.com/?ref=github), a fractional CPO for en
 
 Most work best in an assistant with code execution turned on, such as Claude, so counts and dates are calculated rather than guessed. Each prompt says what it needs before it starts.
 
+## Intuifi
+
+The Theme finder is a cut-down version of [Intuifi](https://intuifi.io/?ref=github), which I'm building. Its snapshot is also a free prompt for Claude, and I'm looking for a few design partners to try the full report on a few months of their own tickets, notes or backlog.
+
 ## Want one built for you?
 
 I can turn any of these into a skill you install once, or build a custom agent around how your team works. [Get in touch](https://crwburgess.com/contact/?ref=github).

@@ -21,6 +21,8 @@ Find companies in the news that fit what you offer, and who to contact at each.
 
 The [tool's page](https://crwburgess.com/toolbelt/lead-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Pairs with the Outreach writer, which drafts the messages from the same tracker. [See the Outreach writer](https://crwburgess.com/toolbelt/outreach-writer/?ref=github)
+
 ## The prompt
 
 ````text

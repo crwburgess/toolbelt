@@ -21,6 +21,8 @@ Sort what people said back under the questions you meant to ask, with the gaps l
 
 The [tool's page](https://crwburgess.com/toolbelt/interview-answer-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Across many interviews, the Theme finder shows what keeps coming up and how often. [Try the Theme finder](https://crwburgess.com/toolbelt/theme-finder/?ref=github)
+
 ## The prompt
 
 ````text

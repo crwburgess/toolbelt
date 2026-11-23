@@ -21,6 +21,8 @@ Take out the habits that make writing sound like an assistant wrote it, and keep
 
 The [tool's page](https://crwburgess.com/toolbelt/human-editor/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+I write about product and building with AI on LinkedIn, without the dramatic pauses. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
+
 ## The prompt
 
 ````text

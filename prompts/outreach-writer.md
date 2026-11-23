@@ -21,6 +21,8 @@ Draft a short, personal email and LinkedIn note for each lead, built around why 
 
 The [tool's page](https://crwburgess.com/toolbelt/outreach-writer/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Want finding and writing running for your business every week? I build agents like this to order. [Ask about an agent](https://crwburgess.com/contact/?ref=github)
+
 ## The prompt
 
 ````text

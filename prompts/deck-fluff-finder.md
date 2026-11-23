@@ -21,6 +21,8 @@ Get to what a pitch deck actually says, and see which slides are only there to i
 
 The [tool's page](https://crwburgess.com/toolbelt/deck-fluff-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Need help making your own story land with investors or customers? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

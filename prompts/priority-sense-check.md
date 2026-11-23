@@ -21,6 +21,8 @@ Check whether the scoring you use to rank work actually does what you think it d
 
 The [tool's page](https://crwburgess.com/toolbelt/priority-sense-check/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+I share more of what I learn about making product decisions on LinkedIn. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
+
 ## The prompt
 
 ````text

@@ -21,6 +21,8 @@ Find what keeps coming up in your own material, how often, and where the evidenc
 
 The [tool's page](https://crwburgess.com/toolbelt/theme-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Want to see what's changing over time, not just a snapshot? That's what Intuifi does. [Find out about Intuifi](https://intuifi.io/?ref=github)
+
 ## The prompt
 
 ````text

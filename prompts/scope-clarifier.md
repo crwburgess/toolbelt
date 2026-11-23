@@ -21,6 +21,8 @@ Understand what a client really needs, and get them to confirm it before you sco
 
 The [tool's page](https://crwburgess.com/toolbelt/scope-clarifier/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+I share more on how I scope fractional work on LinkedIn. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
+
 ## The prompt
 
 ````text

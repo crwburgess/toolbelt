@@ -21,6 +21,8 @@ Find the decisions hiding in a plan, and exactly what you need to learn to make 
 
 The [tool's page](https://crwburgess.com/toolbelt/decision-unblocker/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Need someone outside the team to help get decisions made? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

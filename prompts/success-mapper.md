@@ -21,6 +21,8 @@ See what everyone involved actually needs from the work, so the whole job succee
 
 The [tool's page](https://crwburgess.com/toolbelt/success-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Need help working out what a product or service has to deliver? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

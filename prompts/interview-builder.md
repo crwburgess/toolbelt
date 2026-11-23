@@ -21,6 +21,8 @@ Write interview questions that learn from people's real experience, not your hop
 
 The [tool's page](https://crwburgess.com/toolbelt/interview-builder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Once the interviews are done, the Interview answer mapper sorts what people said back under your questions. [Try the Interview answer mapper](https://crwburgess.com/toolbelt/interview-answer-mapper/?ref=github)
+
 ## The prompt
 
 ````text

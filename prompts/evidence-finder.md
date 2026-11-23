@@ -21,6 +21,8 @@ See what you can honestly claim from your transcripts, with the quotes to back u
 
 The [tool's page](https://crwburgess.com/toolbelt/evidence-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Need help turning what customers say into a story the market understands? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

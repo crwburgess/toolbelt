@@ -21,6 +21,8 @@ Compare your product with a competitor feature by feature, with sources, and an 
 
 The [tool's page](https://crwburgess.com/toolbelt/competitor-comparison/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Need help working out where to compete and how to say it? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text

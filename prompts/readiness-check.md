@@ -21,6 +21,8 @@ Find out how much real evidence sits behind an idea before you spend time buildi
 
 The [tool's page](https://crwburgess.com/toolbelt/readiness-check/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
 
+Want a second pair of eyes on what to build next? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
+
 ## The prompt
 
 ````text
