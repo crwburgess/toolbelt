@@ -57,4 +57,4 @@ Spotted something a prompt gets wrong, or have an idea for a new one? Open an is
 
 ## Licence
 
-Free to use, adapt and share, including at work, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Just credit Chris Burgess with a link to [crwburgess.com](https://crwburgess.com/toolbelt/).
+Free to use, adapt and share however you like. The prompts are released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/), so no credit is needed.
