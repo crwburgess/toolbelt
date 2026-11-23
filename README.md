@@ -51,7 +51,7 @@ Most work best in an assistant with code execution turned on, such as Claude, so
 
 ## Intuifi
 
-The Theme finder is a cut-down version of [Intuifi](https://intuifi.io/?ref=github), which I'm building. Intuifi produces a full report as an HTML page that you sign in to see, and there's a free snapshot version that runs in Claude. I'm looking for a few design partners to try the full report on a few months of their own tickets, notes or backlog. If you'd rather run it inside Claude, I can turn it into a skill.
+The Theme finder comes from [Intuifi](https://intuifi.io/?ref=github), a tool I'm building that turns your tickets, notes and backlog into a report your whole team can check, with every finding linked to its source. I'm looking for a few design partners to try the full report on a few months of their own material, at no charge.
 
 ## Want one built for you?
 
