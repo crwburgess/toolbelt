@@ -19,7 +19,7 @@ Get to what a pitch deck actually says, and see which slides are only there to i
 3. Paste the prompt. It reads the deck first, then asks who it is for and how far you want it to go.
 4. You get the essential points, the ask, a list of the padding with reasons, and the questions the deck leaves open.
 
-The [tool's page](https://crwburgess.com/toolbelt/deck-fluff-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/deck-fluff-finder/?ref=github).
 
 Need help making your own story land with investors or customers? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 

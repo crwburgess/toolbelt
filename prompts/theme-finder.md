@@ -10,16 +10,16 @@ Find what keeps coming up in your own material, how often, and where the evidenc
 
 **What it needs:** An assistant with code execution turned on, since every count is calculated. Connect the tools where your documents live, or attach them.
 
-**Making it fit:** the setup you pick changes the Setup section at the top of the prompt, and you can still edit it by hand before pasting. Nothing leaves your account.
+**Making it fit:** it adapts the Setup section at the top of the prompt to the material it finds, and you can still edit it by hand before pasting. Nothing leaves your account.
 
 ## How to use it
 
-1. Pick the setup closest to your role, then copy the prompt.
+1. Copy the prompt.
 2. Open Claude or another assistant with code execution turned on, and connect the tools where your documents live, or attach them.
 3. Paste the prompt. It tells you what it can see and asks two quick questions: what to focus on, and how far back to go.
 4. It reads everything in scope, counts each theme and gives you a snapshot with every example linked to its source.
 
-The [tool's page](https://crwburgess.com/toolbelt/theme-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/theme-finder/?ref=github).
 
 Want to see what's changing over time, not just a snapshot? That's what Intuifi does. [Find out about Intuifi](https://intuifi.io/?ref=github)
 

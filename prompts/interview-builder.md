@@ -19,7 +19,7 @@ Write interview questions that learn from people's real experience, not your hop
 3. Paste the prompt. It asks what you want to learn, who you are talking to and how long you have.
 4. You get a short guide with a reason for each question, follow-ups, timings and an opening to read out.
 
-The [tool's page](https://crwburgess.com/toolbelt/interview-builder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/interview-builder/?ref=github).
 
 Once the interviews are done, the Interview answer mapper sorts what people said back under your questions. [Try the Interview answer mapper](https://crwburgess.com/toolbelt/interview-answer-mapper/?ref=github)
 

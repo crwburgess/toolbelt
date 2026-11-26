@@ -19,7 +19,7 @@ Stop starting every application from a blank page, without carrying old claims i
 3. Paste the prompt. It finds your documents, then asks what the answers are for and where to start.
 4. You get a bank of answers with sources, a list of conflicts and gaps, and tailored answers for a new form if you share one.
 
-The [tool's page](https://crwburgess.com/toolbelt/answer-bank/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/answer-bank/?ref=github).
 
 Need help telling your story to funders? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 

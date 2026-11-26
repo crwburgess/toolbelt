@@ -19,7 +19,7 @@ Take out the habits that make writing sound like an assistant wrote it, and keep
 3. Paste the prompt with your draft. It asks what the piece is, how much to change and which spelling to use.
 4. You get the edited text ready to copy, and a short list of every change and why.
 
-The [tool's page](https://crwburgess.com/toolbelt/human-editor/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/human-editor/?ref=github).
 
 I write about product and building with AI on LinkedIn, without the dramatic pauses. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
 

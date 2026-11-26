@@ -19,7 +19,7 @@ Work back from what you've built to the problems it solves, and tell your story 
 3. Paste the prompt. It finds what has been built, then asks how much to map and what the map is for.
 4. You get the problems and solutions side by side, a map between them, and two or three plain sentences to build your story on.
 
-The [tool's page](https://crwburgess.com/toolbelt/problem-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/problem-mapper/?ref=github).
 
 Want help turning what you've built into a story customers understand? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 
