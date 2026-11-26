@@ -19,7 +19,7 @@ See what everyone involved actually needs from the work, so the whole job succee
 3. Paste the prompt. It finds the work, then asks what the map is for and how much detail you want.
 4. You get one table showing what each person needs at each stage, how to check it, and what still needs sorting out.
 
-The [tool's page](https://crwburgess.com/toolbelt/success-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/success-mapper/?ref=github).
 
 Need help working out what a product or service has to deliver? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 

@@ -19,7 +19,7 @@ Draft a short, personal email and LinkedIn note for each lead, built around why 
 3. Paste the prompt. It picks up leads from your tracker, or asks for your list and a reason to contact each person now.
 4. It drafts each email and LinkedIn note, checks them against its rules, and saves them as drafts for you to read and send.
 
-The [tool's page](https://crwburgess.com/toolbelt/outreach-writer/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/outreach-writer/?ref=github).
 
 Want finding and writing running for your business every week? I build agents like this to order. [Ask about an agent](https://crwburgess.com/contact/?ref=github)
 

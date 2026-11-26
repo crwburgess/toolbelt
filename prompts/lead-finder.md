@@ -19,7 +19,7 @@ Find companies in the news that fit what you offer, and who to contact at each.
 3. Paste the prompt. On your first run it reads your website and asks a few quick questions about who you want to reach.
 4. It finds companies in the news, checks who to contact and saves each lead to your tracker, ready for the Outreach writer.
 
-The [tool's page](https://crwburgess.com/toolbelt/lead-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/lead-finder/?ref=github).
 
 Pairs with the Outreach writer, which drafts the messages from the same tracker. [See the Outreach writer](https://crwburgess.com/toolbelt/outreach-writer/?ref=github)
 

@@ -19,7 +19,7 @@ Understand what a client really needs, and get them to confirm it before you sco
 3. Paste the prompt. It finds the request, then asks where you are with it and what kind of role you are offering.
 4. You get your understanding written up for the client to confirm, plus the open questions and a breakdown for pricing if you want them.
 
-The [tool's page](https://crwburgess.com/toolbelt/scope-clarifier/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/scope-clarifier/?ref=github).
 
 I share more on how I scope fractional work on LinkedIn. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
 

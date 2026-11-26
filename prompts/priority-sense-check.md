@@ -19,7 +19,7 @@ Check whether the scoring you use to rank work actually does what you think it d
 3. Paste the prompt with your scoring scheme, or point it at the spreadsheet. It asks what the score is used for and what you want back.
 4. You get a verdict, the combinations that prove each problem, a fixed scheme ready to use, and your backlog rescored if you share it.
 
-The [tool's page](https://crwburgess.com/toolbelt/priority-sense-check/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/priority-sense-check/?ref=github).
 
 I share more of what I learn about making product decisions on LinkedIn. [Follow me on LinkedIn](https://www.linkedin.com/in/crwburgess/?ref=github)
 

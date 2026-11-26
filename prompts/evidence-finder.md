@@ -10,16 +10,16 @@ See what you can honestly claim from your transcripts, with the quotes to back u
 
 **What it needs:** An assistant with code execution turned on. Connect wherever your transcripts are kept, such as a meeting recorder or shared drive, or attach them.
 
-**Making it fit:** the tab you pick sets which transcripts it expects and how much evidence counts as strong. Names are replaced with roles in anything it shows.
+**Making it fit:** it asks whether the result is for a founder or a researcher, which sets which transcripts it expects and how much evidence counts as strong. Names are replaced with roles in anything it shows.
 
 ## How to use it
 
-1. Pick Founder or Researcher, then copy the prompt.
+1. Copy the prompt.
 2. Open Claude or another assistant with code execution turned on, and connect wherever your transcripts are kept, or attach them.
-3. Paste the prompt. It asks whether to find what you can claim, check claims you bring, or both, and which transcripts to use.
+3. Paste the prompt. It asks who the result is for, whether to find what you can claim, check claims you bring, or both, and which transcripts to use.
 4. You get each statement graded, with short quotes linked to where they were said and anything that goes against it.
 
-The [tool's page](https://crwburgess.com/toolbelt/evidence-finder/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/evidence-finder/?ref=github).
 
 Need help turning what customers say into a story the market understands? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 
@@ -41,11 +41,10 @@ You are running the Evidence finder, which reads transcripts and shows what can 
 
 ## Setup
 
-These are defaults for a founder. Do not expect the person to have edited them. If they have, follow their version.
+There are two setups. Ask which one fits in step 1, and use it from then on. If the person has already said who the result is for, follow that and skip the question.
 
-- **Transcripts:** calls and conversations with customers and prospects
-- **The result is for:** material for investors, customers or a board
-- **Strong enough means:** at least three different people say it, and nobody contradicts it
+- **Founder:** transcripts are calls and conversations with customers and prospects; the result is material for investors, customers or a board; strong enough means at least three different people say it, and nobody contradicts it.
+- **Researcher:** transcripts are research interviews; the result is findings for a report or a product team; strong enough means at least three participants say it, with the share of all participants shown.
 
 ## 1. Look, ask, then gather
 
@@ -55,8 +54,9 @@ Search each connected tool and any attached files for transcripts: call and meet
 
 Then send one short message. List what is connected, how many transcripts you found in each and the dates they cover. Mention that nothing you read leaves their account. Then ask, with a suggested answer for each:
 
-1. **What would you like me to do?** Find what you can claim from these; check claims you want to make; or both. Suggest both.
-2. **Which transcripts should I use?** Suggest a set from what you saw, such as a type of call or a date range, or all of them.
+1. **Who is the result for?** Founder: material for investors, customers or a board. Researcher: findings for a report or a product team. Suggest the one that fits the transcripts you found.
+2. **What would you like me to do?** Find what you can claim from these; check claims you want to make; or both. Suggest both.
+3. **Which transcripts should I use?** Suggest a set from what you saw, such as a type of call or a date range, or all of them.
 
 If you can show questions as options the person can click, do that, with your suggestion first and room for them to type their own answer. Otherwise, ask in text. If they want claims checked, ask them to paste the claims, one per line. Then wait.
 
@@ -70,7 +70,7 @@ Skip this step if they only asked to check claims.
 
 Write each statement the transcripts support as one plain, specific sentence about what people said or experienced, not about what they ought to do. For each, use code to count the people and transcripts behind it, and look for anything said against it. Grade it:
 
-- **Strong:** meets the Setup bar, with nothing against it.
+- **Strong:** meets the chosen setup's bar, with nothing against it.
 - **Some support:** below the bar, or with mixed evidence.
 - **Weak:** one person, or contradicted.
 
@@ -86,7 +86,7 @@ For each claim, find what supports it and what goes against it, and grade it the
 
 Make sure every quote says what you say it says, supports the statement it sits under, and links to the right place. Make sure the counts match the table. Before showing any quote, use code to remove email addresses and phone numbers, then replace names of people and organisations with their role or type. Fix anything that is wrong.
 
-Then go back through these instructions and the person's answers, and confirm you did what they asked: you used the transcripts they chose, you did the task they chose (finding, checking or both), every claim they gave you has been checked, and every grade follows the Setup's bar. If something couldn't be done, say so in the result rather than leaving it out.
+Then go back through these instructions and the person's answers, and confirm you did what they asked: you used the transcripts they chose, you did the task they chose (finding, checking or both), every claim they gave you has been checked, and every grade follows the chosen setup's bar. If something couldn't be done, say so in the result rather than leaving it out.
 
 ## 5. Show the result
 

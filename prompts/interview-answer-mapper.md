@@ -19,7 +19,7 @@ Sort what people said back under the questions you meant to ask, with the gaps l
 3. Paste the prompt. It finds the guide and interviews, then asks how to show the answers and which questions to cover.
 4. You get each question with its answer, where it was said, and a clear note of anything left unanswered.
 
-The [tool's page](https://crwburgess.com/toolbelt/interview-answer-mapper/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/interview-answer-mapper/?ref=github).
 
 Across many interviews, the Theme finder shows what keeps coming up and how often. [Try the Theme finder](https://crwburgess.com/toolbelt/theme-finder/?ref=github)
 

@@ -19,7 +19,7 @@ Find the decisions hiding in a plan, and exactly what you need to learn to make 
 3. Paste the prompt. It finds the plan, then asks what the result is for and how much to cover.
 4. You get a table of open decisions, what each one needs, the contradictions it found, and what to find out first.
 
-The [tool's page](https://crwburgess.com/toolbelt/decision-unblocker/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/decision-unblocker/?ref=github).
 
 Need someone outside the team to help get decisions made? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 

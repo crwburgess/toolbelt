@@ -4,7 +4,7 @@ Free prompts for Claude and other AI assistants, rewritten from agents I use in 
 
 Every prompt is built the same way. It explains what it's doing and why it needs what it asks for, asks a couple of quick questions up front, then does the work without you having to do anything else. It shows where every finding comes from and checks it did what was asked.
 
-I'm [Chris Burgess](https://crwburgess.com/?ref=github), a fractional CPO for engineering-led companies. You can browse these with setups for different roles on [my toolbelt page](https://crwburgess.com/toolbelt/?ref=github).
+I'm [Chris Burgess](https://crwburgess.com/?ref=github), a fractional CPO for engineering-led companies. You can also browse them on [my toolbelt page](https://crwburgess.com/toolbelt/?ref=github).
 
 ## The prompts
 

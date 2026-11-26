@@ -19,7 +19,7 @@ Find out how much real evidence sits behind an idea before you spend time buildi
 3. Paste the prompt. It says what it will do, then asks a few quick questions about the idea and where the evidence is.
 4. You get the idea rated on both scales, the evidence behind each rating, and the one test worth running next.
 
-The [tool's page](https://crwburgess.com/toolbelt/readiness-check/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/readiness-check/?ref=github).
 
 Want a second pair of eyes on what to build next? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 

@@ -19,7 +19,7 @@ Find the lines on your website that promise more than your product does, before 
 3. Paste the prompt with your web address, or paste the copy. It asks who usually lands on the page and how much change you want.
 4. You get a table of every problem line, why it matters, and a suggested fix, plus the list of facts it checked against.
 
-The [tool's page](https://crwburgess.com/toolbelt/claim-checker/?ref=github) has ready-made setups for different roles, if you'd rather not edit the prompt by hand.
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/claim-checker/?ref=github).
 
 Want help working out what your product should be saying in the first place? That's the work I do. [See my services](https://crwburgess.com/?ref=github)
 
