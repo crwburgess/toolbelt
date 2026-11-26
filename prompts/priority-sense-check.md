@@ -54,7 +54,7 @@ Ask the remaining questions all at once, each as a single choice. Use your built
 
 ## How to work
 
-Test the scheme by working through every possible combination of scores, using code if you can run it. Don't reason about it in your head. Check for:
+Test the scheme by working through every possible combination of scores with code. Don't reason about it in your head. If code execution is switched off, say what is missing and where to turn it on, then stop. Check for:
 - Labels or bands that can never be reached, or can only be reached one way.
 - Very different situations that end up with the same score, for example high value and high effort scoring the same as low value and low effort.
 - Hidden weighting: whether adding, multiplying or averaging quietly makes one factor count more than intended.
