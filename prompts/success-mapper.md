@@ -2,15 +2,13 @@
 
 See what everyone involved actually needs from the work, so the whole job succeeds and not just each task.
 
-**What it does:** Works out what each person involved in a piece of work needs from it at each stage, how you would check they got it, and what the work as a whole must provide.
+**What you get:** A table of who needs what, and how to check they got it
 
-**Who it's for:** Anyone responsible for work that passes between people, teams or suppliers, where finishing each task does not guarantee the whole job succeeded.
+**What you'll need:** A brief, process notes or meeting notes about a piece of work
 
-**Why I built it:** I was mapping an inspection workflow with operators, equipment and software providers, and the people who needed the results. For the operator, success was usable data; flying the drone was just how they got it. The client needed findings quickly enough to act, and the team on site needed to know they had everything before they left. Putting that in one table let us work back to what the hardware, software and service had to provide.
+**How it works:** Lists what each person must receive for the job to work
 
-**What it needs:** Any assistant. A brief, process notes or meeting records are enough; connecting your documents lets it find them for you.
-
-**Missing targets stay as question marks.** It suggests how each outcome could be checked, but labels those suggestions as unagreed and never invents a deadline or standard.
+**Why I built it:** When several people or companies each do their part, everyone can finish their own job and the whole thing can still fail. I found this working out what success meant for a drone inspection involving operators, equipment makers, software providers and the client.
 
 ## How to use it
 

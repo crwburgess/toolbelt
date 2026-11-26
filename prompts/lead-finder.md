@@ -2,15 +2,13 @@
 
 Find companies in the news that fit what you offer, and who to contact at each.
 
-**What it does:** Finds companies in the news that fit what you offer, works out who to contact, and saves each one with the reason the timing suits them.
+**What you get:** A tracker of checked leads
 
-**Who it's for:** Consultants, freelancers and small firms who sell to other businesses and want a steady list of people worth contacting, without paying for a lead database or sending generic pitches.
+**What you'll need:** Your website or a description of what you sell and who to, with web search turned on
 
-**Why I built it:** I first built this as an agent for my own business, because finding the right people to talk to was taking time I'd rather spend on client work. It starts from recent news, so every lead comes with a reason to get in touch now.
+**How it works:** Searches recent news for companies that fit, then finds who to contact
 
-**What it needs:** An assistant with web search turned on, and Google Sheets connected for the tracker. An email finder such as Hunter or Apollo helps, but is optional.
-
-**It never contacts anyone.** It finds and checks leads, then saves them. Nothing is written or sent until you run the Outreach writer.
+**Why I built it:** A good time to contact a company is when something has just changed for it, such as new funding, a new hire or a new product. I built an agent for my own business to find those moments, and this is the prompt version of it.
 
 ## How to use it
 

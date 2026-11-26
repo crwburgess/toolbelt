@@ -2,15 +2,13 @@
 
 Stop starting every application from a blank page, without carrying old claims into the next one.
 
-**What it does:** Turns past applications, proposals and questionnaires into a set of reusable answers, each with its source, and flags anything conflicting, missing or likely to be out of date.
+**What you get:** An answer bank with sources
 
-**Who it's for:** Founders, small teams and freelancers who keep answering the same questions in grant applications, proposals or supplier questionnaires.
+**What you'll need:** Past applications, proposals or questionnaires
 
-**Why I built it:** While helping a company prepare for funding, I wanted to leave it able to write its own applications rather than depending on me. Most applications ask the same handful of questions in different words, so part of that was a bank of answers people could adapt, each with its source and a note of what might go out of date.
+**How it works:** Groups repeated questions and pairs each with a sourced answer
 
-**What it needs:** Any assistant. Past applications and documents describing the organisation, attached or in a connected drive. A person still needs to approve and keep it up to date.
-
-**Plans stay plans.** It keeps what you've done apart from what you intend to do, and won't call an answer approved unless something shows a person approved it.
+**Why I built it:** Funding application forms ask the same sorts of questions, worded differently from one form to the next. While helping a company prepare for funding, I wanted it to have one set of answers to those common questions that it could copy into each new form, rather than starting from scratch or depending on me.
 
 ## How to use it
 

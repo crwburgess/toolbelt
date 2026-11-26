@@ -2,15 +2,13 @@
 
 Get to what a pitch deck actually says, and see which slides are only there to impress.
 
-**What it does:** Reads a pitch deck, pulls out the points that matter and exactly what it is asking for, and flags the slides doing persuasive rather than informative work.
+**What you get:** Key points, the ask and a cut list
 
-**Who it's for:** Founders tightening their own deck before it goes out, and anyone who's been sent a deck and needs to decide how to respond.
+**What you'll need:** A pitch deck
 
-**Why I built it:** A founder sent me a deck asking me to get involved. The actual ask sat on a handful of slides, buried under grids, comparison tables and a patent roadmap. Most decks I'm sent are like that, so I wanted a quick way to get to the substance, with an honest account of what was padding and why.
+**How it works:** Sorts every slide into informing, persuading or repeating
 
-**What it needs:** Any assistant that can read the file. Web search lets it check the statistics the deck borrows.
-
-**Fair, not harsh:** it says when a persuasive slide earns its place for the audience, and turns the gaps into questions you can ask.
+**Why I built it:** Pitch decks often bury the actual ask under pages of grids, tables and roadmaps. Most decks I'm sent are like that, including one from a founder asking me to get involved, where the ask sat on just a handful of slides.
 
 ## How to use it
 

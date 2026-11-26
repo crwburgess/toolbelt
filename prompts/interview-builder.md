@@ -2,15 +2,13 @@
 
 Write interview questions that learn from people's real experience, not your hopes for the answer.
 
-**What it does:** Writes a short interview guide that asks about what people actually did, with a reason for every question, follow-ups, and timings that fit the length of the call.
+**What you get:** A timed interview guide
 
-**Who it's for:** Founders and product teams about to speak to customers, users or prospects, especially for the first time.
+**What you'll need:** Notes on what you want to learn, or notes from earlier interviews
 
-**Why I built it:** Before building Intuifi I interviewed around thirty people in different roles about how their companies gathered and used customer feedback. To compare what they told me, the questions had to share a purpose, suit what each person could actually answer, and not assume my explanation was right. This builds a guide that way.
+**How it works:** Writes questions about what people have actually done
 
-**What it needs:** Any assistant. An existing guide or notes from earlier interviews help it avoid asking what you already know.
-
-**It won't test your idea for you.** Questions about your idea, if you want them, come last and are kept apart from the open questions.
+**Why I built it:** In user research it's easy to ask questions that lead people to say yes to what you want to hear. Before building my own product I interviewed around thirty people, and I needed questions that asked what they had actually done, not whether they liked my idea.
 
 ## How to use it
 

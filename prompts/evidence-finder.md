@@ -2,15 +2,13 @@
 
 See what you can honestly claim from your transcripts, with the quotes to back up every point.
 
-**What it does:** Reads your call and interview transcripts and shows what you can honestly claim from them, or checks the claims you want to make, with the quotes to back each one up.
+**What you get:** Claims with quotes and links
 
-**Who it's for:** Founders preparing material for investors, customers or a board, and researchers turning interviews into findings people will trust.
+**What you'll need:** Call or interview transcripts, and code execution turned on
 
-**Why I built it:** Assistants can sound confident and still be wrong, and when you're reading a summary of twenty calls it's hard to tell which. I built this so it has to show how it reached each conclusion, with the quotes and links behind it and a plain warning when the evidence is thin.
+**How it works:** Matches each claim to quotes from your transcripts
 
-**What it needs:** An assistant with code execution turned on. Connect wherever your transcripts are kept, such as a meeting recorder or shared drive, or attach them.
-
-**Making it fit:** it asks whether the result is for a founder or a researcher, which sets which transcripts it expects and how much evidence counts as strong. Names are replaced with roles in anything it shows.
+**Why I built it:** When an assistant summarises twenty calls, it can sound confident and still be wrong, and it's hard to tell which parts. I built this so it has to show where each conclusion came from.
 
 ## How to use it
 

@@ -2,15 +2,13 @@
 
 Find what keeps coming up in your own material, how often, and where the evidence is.
 
-**What it does:** Looks across the documents you've connected or attached to find recurring themes, how often each one comes up, and where the evidence is.
+**What you get:** Themes with linked evidence
 
-**Who it's for:** Leadership and product teams with more notes, tickets and feedback than time to read, who want to know what keeps coming up before deciding what to work on next.
+**What you'll need:** Feedback, tickets or notes, and code execution turned on
 
-**Why I built it:** Most teams I work with already have the answers to their hardest questions buried in tickets, survey responses and meeting notes. Nobody has time to read it all, so decisions rest on whoever spoke last. I'm building Intuifi to fix that, with every finding linked back to its source, and this prompt gives you a one off version of it.
+**How it works:** Reads every item and counts what keeps coming up
 
-**What it needs:** An assistant with code execution turned on, since every count is calculated. Connect the tools where your documents live, or attach them.
-
-**Making it fit:** it adapts the Setup section at the top of the prompt to the material it finds, and you can still edit it by hand before pasting. Nothing leaves your account.
+**Why I built it:** Most teams already have a record of what customers keep asking for and what keeps going wrong, buried in tickets, survey responses and meeting notes that nobody has time to read, so it rarely gets used. I see this in almost every company I work with.
 
 ## How to use it
 

@@ -2,15 +2,13 @@
 
 Check whether the scoring you use to rank work actually does what you think it does.
 
-**What it does:** Works through every possible combination of scores in your prioritisation scheme, finds the labels that can never be reached and the situations it treats as identical, then suggests a fix or a better alternative.
+**What you get:** A fixed scoring scheme and a reordered backlog
 
-**Who it's for:** Product, engineering and operations leads who score a backlog to decide what comes first or to report priorities upward.
+**What you'll need:** How you score your backlog, and the backlog itself if you want it reordered, with code execution turned on
 
-**Why I built it:** I was about to rank a backlog using a simple formula: value plus effort, turned into Must, Should and Could. When I tested it, one of the labels could never be reached at all. Plenty of teams use something similar without checking, so this tests the maths for you.
+**How it works:** Tests every possible combination of scores
 
-**What it needs:** An assistant with code execution turned on, since every combination is worked out rather than guessed.
-
-**No scheme yet?** it will suggest one that suits how you use it, and check its own suggestion the same way.
+**Why I built it:** Lots of teams score their backlog without checking the maths behind it. When I tested the scoring I was about to use, one of the labels could never come up, whatever the scores.
 
 ## How to use it
 

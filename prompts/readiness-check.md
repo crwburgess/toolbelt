@@ -2,15 +2,13 @@
 
 Find out how much real evidence sits behind an idea before you spend time building it.
 
-**What it does:** Rates the evidence behind a product or feature idea on two separate scales, one for the problem and one for the solution, and tells you the cheapest test that would move it forward.
+**What you get:** A verdict and the next test
 
-**Who it's for:** Founders and product teams deciding whether an idea is ready to build, needs more research, or should be dropped.
+**What you'll need:** Notes or a write-up on a product or feature idea
 
-**Why I built it:** I wanted a way to judge an idea before building it, rather than after. The biggest lesson was that requests from heavy internal users prove a problem exists somewhere, not that customers share it or will pay for a fix. So it keeps evidence for the problem apart from evidence for the solution, and checks whether you could buy rather than build.
+**How it works:** Rates the evidence for the problem and the solution separately
 
-**What it needs:** Any assistant. Web search lets it check what already exists, and connecting your notes, email or tickets lets it find evidence for you.
-
-**Every level can fail.** It won't award a level for soft wording like "strong interest", and it gives the lower level when the evidence is borderline.
+**Why I built it:** Ideas often get built because people inside the company keep asking for them, before anyone checks whether customers have the same problem. I've seen that happen, and wanted a way to check the evidence before building rather than after.
 
 ## How to use it
 

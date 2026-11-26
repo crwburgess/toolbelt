@@ -2,15 +2,13 @@
 
 Draft a short, personal email and LinkedIn note for each lead, built around why the timing suits them.
 
-**What it does:** Takes the people you want to contact and drafts a short email and LinkedIn note for each, built around why the timing suits them.
+**What you get:** Email and LinkedIn drafts for you to check
 
-**Who it's for:** Anyone with a list of people worth contacting who wants a personal first message rather than a template, whether the list came from the Lead finder or somewhere else.
+**What you'll need:** A list of people to contact. Gmail is optional, for saving drafts
 
-**Why I built it:** Writing a good first message takes longer than finding the person. I split this out of my lead agent so every draft follows the same rules: acknowledge what has happened, ask one genuine question, and leave the pitch out.
+**How it works:** Builds each message around what has just happened for them
 
-**What it needs:** An assistant with Gmail connected to save drafts, and Google Sheets if you use the tracker. Without them, it gives you each message to copy.
-
-**It never sends anything.** Read every draft before you do. You know your market better than it does.
+**Why I built it:** A first message that opens with a pitch is easy to ignore. Every draft follows the same rules: acknowledge what has just happened for the person, ask one genuine question, and leave the pitch out.
 
 ## How to use it
 

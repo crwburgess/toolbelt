@@ -2,15 +2,13 @@
 
 Take out the habits that make writing sound like an assistant wrote it, and keep your own words.
 
-**What it does:** Edits a post, email, article or web page to remove the habits that make it read as AI written, matching how you normally write and changing as little as possible.
+**What you get:** Edited text and a list of changes
 
-**Who it's for:** Anyone who drafts with an assistant, or edits someone else's draft, and wants it to sound like a person wrote it.
+**What you'll need:** A draft you want to edit
 
-**Why I built it:** I write my own posts and blog, and built a style guide from my own writing to keep assistants sounding like me. The same habits kept creeping in anyway: dramatic short sentences, lists of three, and before and after contrasts that read like sales copy. This is that list, written so it changes as little as possible and keeps your words.
+**How it works:** Spots AI writing habits and makes the smallest fix
 
-**What it needs:** Any assistant. Examples of your own writing help it match your voice, and connecting your sent email or documents lets it find some for you.
-
-**Nothing new is added.** It won't add claims, facts or opinions, and every change comes with a reason so you can undo it.
+**Why I built it:** Even with a style guide, assistants slip into the habits that make writing read as AI written. I built one from my own writing, and dramatic short sentences, lists of three and before and after contrasts kept creeping in anyway.
 
 ## How to use it
 

@@ -2,15 +2,13 @@
 
 Understand what a client really needs, and get them to confirm it before you scope the work.
 
-**What it does:** Reads a client's emails, brief or call notes, works out the need behind the request, and writes your understanding back in plain terms for them to confirm: what's included, what isn't, and what you'll need from them.
+**What you get:** A write-up for the client to confirm
 
-**Who it's for:** Consultants, fractional leaders and freelancers scoping a piece of work with a new or existing client.
+**What you'll need:** A client's emails or call notes
 
-**Why I built it:** Requests for help often leave it unclear whether I'm being asked to advise, plan or deliver. One conversation drifted from funding applications towards a much broader role; another needed physical product development I don't do. Now I write my understanding back and get the client to confirm it before I scope anything. This does that first draft.
+**How it works:** Separates what the client asked for from what they need
 
-**What it needs:** Any assistant. Connecting your email, notes or documents lets it find the request for you.
-
-**It never agrees to anything for you.** The write-up only states boundaries you've confirmed, asks the client to confirm or correct it, and you check and send it yourself.
+**Why I built it:** Client requests are often vague. "Help with the launch" could mean advice, a plan or doing the work yourself, and it's easy for both sides to come away with different ideas. I need us to agree in writing what's actually needed before I can draw up a statement of work or a contract.
 
 ## How to use it
 

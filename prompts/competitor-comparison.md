@@ -2,15 +2,13 @@
 
 Compare your product with a competitor feature by feature, with sources, and an honest note of what you still need to find out.
 
-**What it does:** Researches a competitor from its own product pages, help centre and documentation, then compares it with your product feature by feature, with a plain explanation of each feature and a source for every mark.
+**What you get:** A comparison spreadsheet
 
-**Who it's for:** Product teams deciding what to build next, and founders who need a straight answer to "how are you different?"
+**What you'll need:** Your product's website or documents, and a competitor's website, with web search turned on
 
-**Why I built it:** I built the first version for a client comparing their inspection software with an established competitor. Half the features in the competitor's documentation meant nothing to me, so I added a plain English column explaining each one. The most useful part turned out to be the question marks: knowing exactly what the public material doesn't say, so you know what to ask in a demo.
+**How it works:** Reads their public documentation and links a source for every feature
 
-**What it needs:** An assistant with web search turned on. Code execution lets it build the spreadsheet; without it you get a table in the chat.
-
-**No guessing:** anything the competitor's public material doesn't confirm is marked with a question mark and a note on how to find out.
+**Why I built it:** A competitor's documentation tells you what it wants you to know, and the gaps can be as useful as the features. When I compared a client's inspection software with an established competitor, the most useful part was marking what the public material didn't say, so we knew what to ask in a demo.
 
 ## How to use it
 

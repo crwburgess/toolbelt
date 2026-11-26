@@ -2,15 +2,13 @@
 
 Find the lines on your website that promise more than your product does, before a prospect does.
 
-**What it does:** Reads your website copy alongside your help, pricing and about pages, works out what the product really does, and flags every line that overpromises, confuses or talks down to the reader.
+**What you get:** Flagged lines with fixes
 
-**Who it's for:** Founders and small teams who wrote their own website and want to know how it reads to someone who has never heard of them.
+**What you'll need:** Your website, with web search turned on
 
-**Why I built it:** When I reworked the Intuifi website, most of the fixes weren't about style. They were lines that promised more than the product did, like "automatically synced" when uploads were manual, or lines that accidentally blamed the reader's own team. This checks for those before a prospect finds them.
+**How it works:** Checks your copy against your help and pricing pages
 
-**What it needs:** An assistant with web search or page reading turned on, so it can read your site. Otherwise paste the copy in.
-
-**Your words stay yours.** If you ask for fixes, it suggests the smallest change that solves each problem and keeps your spelling and tone.
+**Why I built it:** Website copy can promise more than the product does without anyone noticing. When I reworked the website for my own product, most of the fixes were lines like that, such as saying data was "automatically synced" when uploads were manual.
 
 ## How to use it
 

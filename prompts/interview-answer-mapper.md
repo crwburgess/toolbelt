@@ -2,15 +2,13 @@
 
 Sort what people said back under the questions you meant to ask, with the gaps left visible.
 
-**What it does:** Takes an interview transcript or notes and sorts what was said under each question in your guide, with the passage behind every answer and unanswered questions left empty.
+**What you get:** A question and answer table
 
-**Who it's for:** Anyone who runs interviews, calls or research conversations and needs a consistent record when people don't answer in order.
+**What you'll need:** Your interview guide and a transcript or notes
 
-**Why I built it:** After gathering feedback on an analysis report, I needed to sort my interview notes under the questions I'd asked. The answer to one question kept turning up in the middle of another, and some questions never got answered at all. I wanted a record I could trust, with the gaps left showing rather than quietly filled in.
+**How it works:** Sorts what each person said under the same questions
 
-**What it needs:** Any assistant. Your interview guide and a transcript or notes, attached or in a connected drive or meeting recorder.
-
-**Empty answers stay empty.** If a question wasn't addressed, it says so rather than writing an answer, and summaries are never shown as quotes.
+**Why I built it:** People often tell you more in a natural conversation than when you work through a list of questions. The catch is that every conversation goes its own way, so to compare them I need each person's answers sorted under the same questions, taken from wherever they came up, with a gap left where they didn't.
 
 ## How to use it
 

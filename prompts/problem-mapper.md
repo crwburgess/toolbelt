@@ -2,15 +2,13 @@
 
 Work back from what you've built to the problems it solves, and tell your story from there.
 
-**What it does:** Starts from what your company has already built and works back to the problem each part solves, then shows which problems have the most behind them, so you can tell your story from what exists today.
+**What you get:** A map of the problems your product solves, and the story that goes with them
 
-**Who it's for:** Founders and technical teams with a product that works but a story that doesn't yet land, and anyone taking on a role in a company and needing to understand what it's really for.
+**What you'll need:** Your product's documents or website
 
-**Why I built it:** Everyone builds something to solve a problem, whether they acknowledge it or not. When I joined one company, it had several working technologies that had grown up around different projects, and different people explained what each one was for in different ways. Mapping what had been built back to the problems behind it gave us one shared picture, and made the story much easier to tell without changing the product. It's now the first thing I do in a fractional role.
+**How it works:** Works back from what you've built to the problems it solves
 
-**What it needs:** Any assistant. Connecting your documents, or giving it your website, lets it find what has been built for you.
-
-**It doesn't tell you to change the product.** It describes what is there, and labels any problem it has inferred so your team can confirm it.
+**Why I built it:** When a product grows up around different projects, people can end up explaining what it's for differently. That's what I found when I joined one company, and I needed one clear account of the problem each part solved.
 
 ## How to use it
 

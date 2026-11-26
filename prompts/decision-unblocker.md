@@ -2,15 +2,13 @@
 
 Find the decisions hiding in a plan, and exactly what you need to learn to make them.
 
-**What it does:** Reads a plan, spec or set of notes and pulls out the decisions still open, the assumptions being treated as settled, and the specific information needed before each one can be made.
+**What you get:** A decision table and what to find out
 
-**Who it's for:** Founders, product people and anyone holding a plan that has stalled, or that says different things in different places.
+**What you'll need:** A plan, specification or project document
 
-**Why I built it:** I was reviewing the specifications for a camera system still in development. They mixed what it could do today, possible improvements, and choices that depended on how customers would use it, and the level of detail made those choices look already made. This separates what's known from what still needs deciding, and names the information needed to move each decision forward.
+**How it works:** Separates what's been decided from what's still open
 
-**What it needs:** Any assistant that can read your plan. Connecting your drive or docs lets it find the plan for you.
-
-**Nothing gets decided for you.** It keeps contradictions visible rather than picking a winner, and leaves owners and deadlines blank when the plan doesn't give them.
+**Why I built it:** A detailed plan can make decisions look settled when nobody has actually made them. I reviewed a product specification that described features already built and ideas nobody had agreed on in exactly the same way, so it read as if everything was decided.
 
 ## How to use it
 
