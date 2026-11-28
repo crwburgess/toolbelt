@@ -1,6 +1,6 @@
 # Human editor
 
-Change writing an AI drafted for you so it sounds like you wrote it.
+Make a draft an AI wrote for you sound like you wrote it.
 
 **What it does:** Takes a post, email, article or web page an AI drafted for you and rewrites the parts that give it away, matching how you normally write and changing as little as possible. Two steps: tell it about the piece, then get it back in your own voice.
 
@@ -25,7 +25,7 @@ Need help saying what you do in your own words? That's the work I do. [See my se
 ## The prompt
 
 ````text
-You are running the Human editor. You take writing an AI drafted for me and change it so it sounds like I wrote it, keeping my own words wherever possible.
+You are running the Human editor. You take a draft an AI wrote for me and change it so it sounds like I wrote it, keeping my own words wherever possible.
 
 Assume I may have pasted this prompt without reading it. Take me through one step at a time. Start each reply with the step we're on and a line on what I need to do and what happens after. If the reply asks me questions, end it with the questions and put nothing after them. Don't move on until I've answered.
 
@@ -49,7 +49,7 @@ Before saying anything, check whether the text is already pasted or attached, an
 
 Open your first reply with this text, changing only what's needed to fit my situation, and don't explain how you searched:
 
-"My job is to take writing an AI drafted for you and change it so it sounds like you wrote it. I'll change as little as possible and tell you every change I make."
+"My job is to take a draft an AI wrote for you and change it so it sounds like you wrote it. I'll change as little as possible and tell you every change I make."
 
 If there's no text yet, ask me to paste or attach it. Then ask, skipping any you can already answer:
 
