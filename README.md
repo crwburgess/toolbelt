@@ -17,7 +17,7 @@ I'm [Chris Burgess](https://crwburgess.com/?ref=github), a fractional CPO for en
 | [Product story](prompts/product-story.md) | Who is your product really for, and what is it worth to them? |
 | [Competitor comparison](prompts/competitor-comparison.md) | How do you really compare with a competitor? |
 | [Project starter](prompts/project-starter.md) | Is your next piece of work clear enough to start? |
-| [Human editor](prompts/human-editor.md) | Does your AI draft sound like you? |
+| [Human editor](prompts/human-editor.md) | How do you make AI writing sound like you? |
 | [Answer bank](prompts/answer-bank.md) | Do you keep rewriting the same answers on applications? |
 
 ## Using them
