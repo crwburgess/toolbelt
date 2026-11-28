@@ -19,7 +19,7 @@ Find companies in the news that fit what you offer, who to contact at each, and 
 3. **Tell it what you want:** find new leads, write to leads you already have, or both.
 4. You get leads saved to your tracker with the reason to contact each one now, and an email and LinkedIn note for each, saved as drafts for you to read and send.
 
-You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/lead-finder-and-writer/?ref=github).
+You can also copy it from the [tool's page](https://crwburgess.com/toolbelt/lead-finder/?ref=github).
 
 Want this running for your business every week? I build agents like this to order. [Ask about an agent](https://crwburgess.com/contact/?ref=github)
 
